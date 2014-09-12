@@ -15,6 +15,10 @@
 		"selected_items":
 		[
 			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
 				"pack",
 				"Package Control: List Packages"
 			],
@@ -29,13 +33,9 @@
 			[
 				"pac",
 				"Package Control: Remove Package"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
 			]
 		],
-		"width": 593.0
+		"width": 746.0
 	},
 	"console":
 	{
@@ -56,12 +56,16 @@
 	},
 	"expanded_folders":
 	[
+		"/usr/share/arduino"
 	],
 	"file_history":
 	[
 		"/home/ouen/Arduino/arduino.sublime-project",
-		"/home/ouen/.config/sublime-text-3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/home/ouen/Arduino/projects/Blink/test.ino",
 		"/home/ouen/.config/sublime-text-3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/home/ouen/.config/sublime-text-3/Packages/User/SideBarGit.sublime-settings",
+		"/home/ouen/Arduino/libraries/readme.txt",
+		"/home/ouen/.config/sublime-text-3/Packages/GitGutter/GitGutter.sublime-settings",
 		"/home/ouen/tmp/Blink.ino",
 		"/usr/share/arduino/examples/01.Basics/Blink/Blink.ino",
 		"/home/ouen/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
@@ -111,7 +115,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
