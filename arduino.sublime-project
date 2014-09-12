@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name":"Sketchbook",
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"name":"Reference Libs",
+			"path": "/usr/share/arduino"
+		}
+	]
+}
