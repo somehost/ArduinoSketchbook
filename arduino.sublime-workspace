@@ -15,6 +15,10 @@
 		"selected_items":
 		[
 			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
 				"insta",
 				"Package Control: Install Package"
 			],
@@ -25,10 +29,6 @@
 			[
 				"in",
 				"Package Control: Install Package"
-			],
-			[
-				"packa",
-				"Package Control: List Packages"
 			],
 			[
 				"pac",
@@ -56,12 +56,15 @@
 	},
 	"expanded_folders":
 	[
-		"/usr/share/arduino"
+		"/home/ouen/Arduino",
+		"/home/ouen/Arduino/projects",
+		"/home/ouen/Arduino/projects/AnalogReadSerial"
 	],
 	"file_history":
 	[
-		"/home/ouen/Arduino/arduino.sublime-project",
+		"/home/ouen/Arduino/projects/Blink/Blink.ino",
 		"/home/ouen/Arduino/projects/Blink/test.ino",
+		"/home/ouen/Arduino/arduino.sublime-project",
 		"/home/ouen/.config/sublime-text-3/Packages/SideBarGit/SideBarGit.sublime-settings",
 		"/home/ouen/.config/sublime-text-3/Packages/User/SideBarGit.sublime-settings",
 		"/home/ouen/Arduino/libraries/readme.txt",
